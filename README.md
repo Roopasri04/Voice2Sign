@@ -60,8 +60,5 @@ The dashboard includes six main features:
 3. Connect a device or emulator  
 4. Run the application  
 
-##  Developed By
-ROOPA SRI  
-
 ## 🔗 GitHub Repository
 https://github.com/Roopasri04/Voice2Sign
