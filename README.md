@@ -42,6 +42,7 @@ The dashboard includes six main features:
 <img width="200" height="400" alt="image" src="https://github.com/user-attachments/assets/c2bb0903-4dfd-486e-8dc9-6c2711b2d46b" />
 <img width="200" height="400" alt="image" src="https://github.com/user-attachments/assets/8c6ce7cc-57e8-4a83-8a08-f52820929e56" />
 <img width="200" height="400" alt="image" src="https://github.com/user-attachments/assets/5315e74c-b27b-4202-8faf-9a9a1c3618cc" />
+<img width="200" height="400" alt="image" src="https://github.com/user-attachments/assets/a3ec405e-e5ad-424e-bf4f-92f69bce8402" />
 <img width="200" height="400" alt="image" src="https://github.com/user-attachments/assets/4563e7ae-a91c-4c7e-b665-88c9ff3dd058" />
 <img width="200" height="400" alt="image" src="https://github.com/user-attachments/assets/9f07d55b-091c-4d95-a0ef-d6cf52c0e8d6" />
 <img width="200" height="400" alt="image" src="https://github.com/user-attachments/assets/da6234e4-5fb6-407d-a9bc-74bd0ab3922f" />
