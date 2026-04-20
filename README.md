@@ -37,6 +37,18 @@ The dashboard includes six main features:
 
 ## ScreenShots
 <img width="200" height="400" alt="image" src="https://github.com/user-attachments/assets/88ea8569-fa13-4538-8533-8534127650e4" />
+<img width="200" height="400" alt="image" src="https://github.com/user-attachments/assets/51fe8ed3-06eb-4fda-88bd-7edbad038b77" />
+<img width="200" height="400" alt="image" src="https://github.com/user-attachments/assets/19c7cdf9-3a2f-4f69-97ae-9541c923995b" />
+<img width="200" height="400" alt="image" src="https://github.com/user-attachments/assets/ff8b3dbd-415d-43ea-9a19-0388d3a104d7" />
+<img width="200" height="400" alt="image" src="https://github.com/user-attachments/assets/bd967c5a-4b71-4e02-bc0e-2a7c159fc5d1" />
+<img width="200" height="400" alt="image" src="https://github.com/user-attachments/assets/85a9121c-d049-4ff6-800f-09160e8dc63e" />
+<img width="200" height="400" alt="image" src="https://github.com/user-attachments/assets/4563e7ae-a91c-4c7e-b665-88c9ff3dd058" />
+<img width="200" height="400" alt="image" src="https://github.com/user-attachments/assets/9f07d55b-091c-4d95-a0ef-d6cf52c0e8d6" />
+<img width="200" height="400" alt="image" src="https://github.com/user-attachments/assets/da6234e4-5fb6-407d-a9bc-74bd0ab3922f" />
+<img width="200" height="400" alt="image" src="https://github.com/user-attachments/assets/76ae503b-961b-4cdb-b2dd-62a7a7f498c7" />
+<img width="200" height="400" alt="image" src="https://github.com/user-attachments/assets/8210ebfd-606b-418a-9d1c-0b0de5ca77d1" />
+<img width="200" height="400" alt="image" src="https://github.com/user-attachments/assets/bba69dc4-120a-4738-8e30-15f501307acd" />
+<img width="200" height="400" alt="image" src="https://github.com/user-attachments/assets/309eb76e-599d-4b33-b29c-f5034dbb673a" />
 
 
 
