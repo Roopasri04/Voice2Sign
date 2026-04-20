@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/pure_white"
+    android:padding="24dp">
+
+    <!-- Top Header Bar -->
+    <LinearLayout
+        android:id="@+id/headerBar"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:background="@color/dark_blue"
+        android:gravity="center">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="VOICE2SIGN"
+            android:textColor="@color/pure_white"
+            android:textSize="22sp"
+            android:textStyle="bold"
+            android:letterSpacing="0.1"/>
+    </LinearLayout>
+
+    <!-- Speak Button -->
+    <Button
+        android:id="@+id/startListening"
+        android:layout_width="match_parent"
+        android:layout_height="52dp"
+        android:layout_below="@id/headerBar"
+        android:layout_marginTop="40dp"
+        android:text="🎤 Speak Now"
+        android:textAllCaps="false"
+        android:textSize="18sp"
+        android:textColor="@color/pure_white"
+        android:backgroundTint="@color/dark_blue" />
+
+    <!-- Avatar -->
+    <ImageView
+        android:id="@+id/avatarGif"
+        android:layout_width="260dp"
+        android:layout_height="260dp"
+        android:layout_below="@id/startListening"
+        android:layout_marginTop="40dp"
+        android:layout_centerHorizontal="true"
+        android:scaleType="centerCrop"
+        android:visibility="invisible"
+        android:src="@drawable/hello" />
+
+</RelativeLayout>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/pure_white">
+
+    <!-- 🔵 Header -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="120dp"
+        android:background="@color/dark_blue"
+        android:gravity="center"
+        android:elevation="6dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="VOICE2SIGN"
+            android:textColor="@color/pure_white"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            android:letterSpacing="0.1"/>
+    </LinearLayout>
+
+    <!-- 🤍 Main Content -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="24dp"
+        android:gravity="center">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="24dp"
+            android:elevation="8dp"
+            android:background="@color/pure_white">
+
+            <EditText
+                android:id="@+id/inputText"
+                android:layout_width="match_parent"
+                android:layout_height="55dp"
+                android:hint="Enter text to translate"
+                android:textColor="@color/dark_blue"
+                android:textColorHint="#888888"
+                android:padding="12dp" />
+
+            <Spinner
+                android:id="@+id/languageSpinner"
+                android:layout_width="match_parent"
+                android:layout_height="55dp"
+                android:layout_marginTop="20dp"
+                android:backgroundTint="@color/dark_blue" />
+
+            <Button
+                android:id="@+id/translateButton"
+                android:layout_width="match_parent"
+                android:layout_height="55dp"
+                android:text="Translate"
+                android:textAllCaps="false"
+                android:textStyle="bold"
+                android:textColor="@color/pure_white"
+                android:backgroundTint="@color/dark_blue"
+                android:layout_marginTop="24dp"/>
+
+            <TextView
+                android:id="@+id/translatedText"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Translation will appear here"
+                android:textColor="@color/dark_blue"
+                android:textStyle="italic"
+                android:textSize="18sp"
+                android:layout_marginTop="28dp"/>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</LinearLayout>

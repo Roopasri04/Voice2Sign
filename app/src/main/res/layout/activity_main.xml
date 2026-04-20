@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/pure_white">
+
+    <!-- 🔵 Dark Blue Header Rectangle -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:background="@color/dark_blue"
+        android:gravity="center"
+        android:elevation="6dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="VOICE2SIGN"
+            android:textColor="@color/pure_white"
+            android:textSize="28sp"
+            android:textStyle="bold"
+            android:letterSpacing="0.1"/>
+    </LinearLayout>
+
+    <!-- 🤍 Login Form Section -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="32dp"
+        android:layout_marginTop="40dp">
+
+        <EditText
+            android:id="@+id/loginEmail"
+            android:layout_width="match_parent"
+            android:layout_height="55dp"
+            android:hint="Email"
+            android:padding="12dp"
+            android:textColor="@color/dark_blue"
+            android:textColorHint="#888888"
+            android:background="@android:drawable/edit_text"/>
+
+        <EditText
+            android:id="@+id/loginPassword"
+            android:layout_width="match_parent"
+            android:layout_height="55dp"
+            android:layout_marginTop="20dp"
+            android:hint="Password"
+            android:inputType="textPassword"
+            android:padding="12dp"
+            android:textColor="@color/dark_blue"
+            android:textColorHint="#888888"
+            android:background="@android:drawable/edit_text"/>
+
+        <Button
+            android:id="@+id/loginButton"
+            android:layout_width="match_parent"
+            android:layout_height="55dp"
+            android:layout_marginTop="30dp"
+            android:text="Login"
+            android:textStyle="bold"
+            android:textColor="@color/pure_white"
+            android:backgroundTint="@color/dark_blue"/>
+
+        <Button
+            android:id="@+id/signupRedirect"
+            android:layout_width="match_parent"
+            android:layout_height="55dp"
+            android:layout_marginTop="15dp"
+            android:text="Sign Up"
+            android:textStyle="bold"
+            android:textColor="@color/dark_blue"
+            android:backgroundTint="@color/light_gray"/>
+
+    </LinearLayout>
+
+</LinearLayout>

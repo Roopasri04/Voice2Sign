@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "618827126784",
+    "project_id": "reallogin12346",
+    "storage_bucket": "reallogin12346.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618827126784:android:67ced1d31447fcf18360e5",
+        "android_client_info": {
+          "package_name": "com.example.reallogin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhYye0FL0DNkBylis_nUN-uprEMnXvS00"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
