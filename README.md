@@ -36,7 +36,8 @@ The dashboard includes six main features:
 - Jitsi SDK
 
 ## ScreenShots
-<img width="720" height="1490" alt="image" src="https://github.com/user-attachments/assets/LOGIN Page" />
+<img width="720" height="1490" alt="image" src="https://github.com/user-attachments/assets/88ea8569-fa13-4538-8533-8534127650e4" />
+
 
 
 
