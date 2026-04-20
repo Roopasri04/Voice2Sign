@@ -35,6 +35,11 @@ The dashboard includes six main features:
 - Firebase (Authentication & Realtime Database)
 - Jitsi SDK
 
+## ScreenShots
+<img width="720" height="1490" alt="image" src="https://github.com/user-attachments/assets/LOGIN Page" />
+
+
+
 ##  How to Run
 1. Clone the repository  
 2. Open the project in Android Studio  
