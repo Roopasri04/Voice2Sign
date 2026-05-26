@@ -1,9 +1,9 @@
-# VoiceBridge – Assistive Communication App
+# Voice2Sign – Assistive Communication App
 
  Secured First Prize in Project Expo
 
 ## Overview
-VoiceBridge is an Android application designed to support communication for deaf and visually impaired users. It combines voice, text, and sign language features into a single platform to improve accessibility and real-time interaction.
+Voice2Sign is an Android application designed to support communication for deaf and visually impaired users. It combines voice, text, and sign language features into a single platform to improve accessibility and real-time interaction.
 
 ## Workflow
 ###  User Authentication
